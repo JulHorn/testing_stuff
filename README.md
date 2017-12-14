@@ -31,6 +31,7 @@ This is a small collection of the testing related stuff that I have gathered ove
 - Extensive collection of security related list, like username, payloads etc.: https://github.com/danielmiessler/SecLists
 - A comprehensive collection of security testing related stuff: http://katrinatester.blogspot.de/2015/09/security-testing-pathway.html
 - Well known web security tools: https://www.owasp.org/index.php/OWASP_Zed_Attack_Proxy_Project (free)/ https://portswigger.net/burp (commercial with a free version)
+- The Deutsche Telekom security and privacy checklists: https://www.telekom.com/en/corporate-responsibility/data-protection-data-security/security/security/privacy-and-security-assessment-process-358312
 - An OWASP project to learn web security testing: https://www.owasp.org/index.php/Category:OWASP_WebGoat_Project
 - A google project to learn web security testing: https://google-gruyere.appspot.com/
 

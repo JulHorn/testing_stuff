@@ -2,7 +2,7 @@
 
 This is a small collection of the testing related stuff that I have gathered over the time. I put it on GitHub to have it easily accessible and in one place and to make it accessible to anyone else who might find it interesting.   
 
-## Generic Testong Topics
+## Generic Testing Topics
 - The great heuristic test model from James Bach: http://www.satisfice.com/tools/htsm.pdf
 - Some information about Paired Testing: http://www.testingeducation.org/a/pairs.pdf
 - Further information about Paired Testing: http://katrinatester.blogspot.de/2015/05/pair-testing.html
@@ -17,6 +17,7 @@ This is a small collection of the testing related stuff that I have gathered ove
 - A list of stuff to improve your testing skills in different areas like OS, security etc.: http://erik.brickarp.se/2015/08/practice-software-testing.html
 - A huge list of testing resources: http://www.huibschoots.nl/wordpress/?page_id=441
 - Exercise on critical thinking (aka on how to learn the art of asking critical questions): http://erik.brickarp.se/2014/11/exercise-critical-thinking-in-software.html
+- A lot of helpful mindmaps: http://apps.testinsane.com/mindmaps/Page/1/date_desc 
 
 ## UX
 - Some general information about UX and what it encompasses: https://www.usertesting.com/blog/2015/08/13/what-is-user-experience/

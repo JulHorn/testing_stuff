@@ -18,6 +18,7 @@ This is a small collection of the testing related stuff that I have gathered ove
 - A huge list of testing resources: http://www.huibschoots.nl/wordpress/?page_id=441
 - Exercise on critical thinking (aka on how to learn the art of asking critical questions): http://erik.brickarp.se/2014/11/exercise-critical-thinking-in-software.html
 - A lot of helpful mindmaps: http://apps.testinsane.com/mindmaps/Page/1/date_desc 
+- A good explanation of the different tests categorizations in regard of automation (unit, integration, contract, end-to-end): https://martinfowler.com/articles/practical-test-pyramid.html
 
 ## UX
 - Some general information about UX and what it encompasses: https://www.usertesting.com/blog/2015/08/13/what-is-user-experience/

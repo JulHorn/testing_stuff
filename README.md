@@ -16,9 +16,11 @@ This is a small collection of the testing related stuff that I have gathered ove
 - List of how to come up with test ideas with test techniques, product risks etc.: http://erik.brickarp.se/2016/08/how-to-come-up-with-test-ideas.html 
 - A list of stuff to improve your testing skills in different areas like OS, security etc.: http://erik.brickarp.se/2015/08/practice-software-testing.html
 - A huge list of testing resources: http://www.huibschoots.nl/wordpress/?page_id=441
-- Exercise on critical thinking (aka on how to learn the art of asking critical questions): http://erik.brickarp.se/2014/11/exercise-critical-thinking-in-software.html
-- A lot of helpful mindmaps: http://apps.testinsane.com/mindmaps/Page/1/date_desc 
+- Exercise on critical thinking (aka on how to learn the art of asking critical questions): http://erik.brickarp.se/2014/11/exercise-critical-thinking-in-software.html 
 - A good explanation of the different tests categorizations in regard of automation (unit, integration, contract, end-to-end): https://martinfowler.com/articles/practical-test-pyramid.html
+- Some good information about writing a test plan: https://dojo.ministryoftesting.com/dojo/lessons/how-to-write-a-software-test-plan
+- A lot of helpful mindmaps: http://apps.testinsane.com/mindmaps/Page/1/date_desc
+- A mindmap for a very good first overview on what to test in a web environment: http://apps.testinsane.com/mindmaps/36-days-of-web-testing-by-rob-lambert-the-social-tester
 
 ## UX
 - Some general information about UX and what it encompasses: https://www.usertesting.com/blog/2015/08/13/what-is-user-experience/
@@ -36,6 +38,8 @@ This is a small collection of the testing related stuff that I have gathered ove
 - The Deutsche Telekom security and privacy checklists: https://www.telekom.com/en/corporate-responsibility/data-protection-data-security/security/security/privacy-and-security-assessment-process-358312
 - An OWASP project to learn web security testing: https://www.owasp.org/index.php/Category:OWASP_WebGoat_Project
 - A google project to learn web security testing: https://google-gruyere.appspot.com/
+- A mindmap for cookie testing: http://apps.testinsane.com/mindmaps/uploads/Cookie%20Testing%20-%20Web%20and%20Mobile%20-%20Pranav%20KS%20-%20TestInsane%20.png
+- A great web security mindmap: http://apps.testinsane.com/mindmaps/uploads/INSANE%20Web%20Security%20Testing%20MindMap.png
 
 ## Recruiting related Stuff
 - Information from a recruiter on how he handled the different phases of recruiting (application evaluation, preparation for the interviews etc.) http://bestofthetest.blogspot.de/2017/03/the-other-side-of-interview-table.html

@@ -21,6 +21,8 @@ This is a small collection of the testing related stuff that I have gathered ove
 - Some good information about writing a test plan: https://dojo.ministryoftesting.com/dojo/lessons/how-to-write-a-software-test-plan
 - A lot of helpful mindmaps: http://apps.testinsane.com/mindmaps/Page/1/date_desc
 - A mindmap for a very good first overview on what to test in a web environment: http://apps.testinsane.com/mindmaps/36-days-of-web-testing-by-rob-lambert-the-social-tester
+- A small cheat sheet about critical thinking: https://www.wabisabilearning.com/hs-fs/hubfs/critical-thinking-cheatsheet-tmb.png?width=800&name=critical-thinking-cheatsheet-tmb.png
+- A small Wikipedia article about finding a root cause: https://en.wikipedia.org/wiki/5_Whys
 
 ## UX
 - Some general information about UX and what it encompasses: https://www.usertesting.com/blog/2015/08/13/what-is-user-experience/

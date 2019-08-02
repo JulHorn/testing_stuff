@@ -76,3 +76,4 @@ This is a small collection of the testing related stuff that I have gathered ove
 - A lot of information about Unicode encoding and what can go wrong: https://github.com/jagracey/Awesome-Unicode
 - Images in different sizes if you ever need to test some image related stuff: https://github.com/ckenst/images_catalog
 - Some interesting information about test automation: http://thetesteye.com/blog/2017/03/implication-of-emphasis-on-automation-in-ci/
+- A nice tool to play around with encodings, encryptions, languages and a lot more: https://gchq.github.io/CyberChef/

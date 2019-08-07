@@ -77,3 +77,9 @@ This is a small collection of the testing related stuff that I have gathered ove
 - Images in different sizes if you ever need to test some image related stuff: https://github.com/ckenst/images_catalog
 - Some interesting information about test automation: http://thetesteye.com/blog/2017/03/implication-of-emphasis-on-automation-in-ci/
 - A nice tool to play around with encodings, encryptions, languages and a lot more: https://gchq.github.io/CyberChef/
+
+## Browser plugins/ extensions
+- A nice little lists for chrome browser extensions: https://www.lambdatest.com/blog/op-chrome-extensions-for-developers-2019/
+
+## Automation
+- A nice little basic talk about automation code smells and how to fix them with Java/Selenium: https://www.youtube.com/watch?v=w_SHQFzOosg&feature=youtu.be

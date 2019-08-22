@@ -83,3 +83,4 @@ This is a small collection of the testing related stuff that I have gathered ove
 
 ## Automation
 - A nice little basic talk about automation code smells and how to fix them with Java/Selenium: https://www.youtube.com/watch?v=w_SHQFzOosg&feature=youtu.be
+- The Automation University offers a lot of automation courses for free. If you want to, you can enroll for free and earn points for completing courses to take part in a ranking. Very nice! https://testautomationu.applitools.com/

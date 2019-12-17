@@ -56,6 +56,7 @@ This is a small collection of the testing related stuff that I have gathered ove
 - Nice mindmap about impairment categories: http://automation-beyond.com/wp/wp-content/uploads/2014/09/impairment-categories.png
 - An Alphabet of Accessibility Issues: https://the-pastry-box-project.net/anne-gibson/2014-july-31
 - Accessability requirements of the UK government: https://www.gov.uk/service-manual/helping-people-to-use-your-service/making-your-service-accessible-an-introduction
+- A nice little accessability cheat sheet: https://moritzgiessmann.de/accessibility-cheatsheet/
 
 ## Mobile Testing
 - A comprehensive collection of mobile testing related stuff: http://katrinatester.blogspot.de/2015/08/mobile-testing-pathway.html
